@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVFontUtils_Tests' do
+  pod 'JVFontUtils', :path => '../'
+  
+  
+end

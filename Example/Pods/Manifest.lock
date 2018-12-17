@@ -1,0 +1,16 @@
+PODS:
+  - JVFontUtils (0.1.0)
+
+DEPENDENCIES:
+  - JVFontUtils (from `../`)
+
+EXTERNAL SOURCES:
+  JVFontUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVFontUtils: af2afba8f18433553946aa6a53e66fb90b000987
+
+PODFILE CHECKSUM: 6a426f3a7ba42701849a6ac64f2934ce201cab33
+
+COCOAPODS: 1.6.0.beta.1
